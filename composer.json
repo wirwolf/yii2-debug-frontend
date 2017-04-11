@@ -1,0 +1,13 @@
+{
+    "name": "wirwolf/yii2-debug-dackend",
+    "license": "GPL v3",
+    "authors": [
+        {
+            "name": "Andru",
+            "email": "wir_wolf@bk.ru"
+        }
+    ],
+	"autoload": {
+		"psr-4": {"wirwolf\\yii2DebugFrontend\\": "src/"}
+	}
+}
